@@ -22,15 +22,6 @@ Atuo há mais de 10 anos como Suporte Técnico em TI, acumulando experiência em
 🌱 Por aqui estamos em constante desenvolvimento — atualmente estudando C# e Typescript.</br>
 🐾 Apaixonado por tecnologia, livros e natureza.</br>
 <br clear="both">
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/romariobraz/romariobraz/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3>🎨 Tecnologias</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
