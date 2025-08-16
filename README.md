@@ -1,4 +1,4 @@
-<h1>✨ Romário Braz ✨</h1>
+<h1 div style='text-align:center'>✨ Romário Braz ✨</h1>
 
 <h2>Suporte de TI Pleno | Estudante de Engenharia de Software</h2>
 
