@@ -18,17 +18,15 @@ Atuo há mais de 10 anos como Suporte Técnico em TI, acumulando experiência em
 
 ☕ .Net, JavaScript, Typescript.
 
-🗃️ Banco de Dados
-
+🗃️ Banco de Dados</br>
 SQL, PostgreSQL.
 
-🎨 Front-end
-
+🎨 Front-end</br>
 HTML5 CSS3 JavaScript React
 
-<h3>📬 Contato</h3>
+<h3>📬 Contato</h3></br>
 
-<h3>✨ Disponibilidade</h3>
-📌 Aberto a estágios e oportunidades na area desenvolvimento.
-💡 Amo transformar problemas e dificuldades em soluções.
-🚀 Sempre pronto para aprender e crescer profissionalmente.
+<h3>✨ Disponibilidade</h3></br>
+📌 Aberto a estágios e oportunidades na area desenvolvimento.</br>
+💡 Amo transformar problemas e dificuldades em soluções.</br>
+🚀 Sempre pronto para aprender e crescer profissionalmente.</br>
