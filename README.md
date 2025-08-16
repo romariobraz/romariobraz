@@ -50,8 +50,9 @@ SQL, PostgreSQL.
 
 🎨 Front-end</br>
 HTML5, CSS3, JavaScript, React.
-🚀 Mobile
-React Native
+
+🚀 Mobile</br>
+React Native.
 
 <h3>📊 Estatísticas do GitHub</h3>
 <div align="center">
