@@ -15,12 +15,15 @@ Atuo há mais de 10 anos como Suporte Técnico em TI, acumulando experiência em
 🐾 Apaixonado por tecnologia, livros e natureza.
 
 <h3>🎨 Tecnologias</h3>
+
 ☕ .Net, JavaScript, Typescript.
 
-<h3>🗃️ Banco de Dados</h3>
+🗃️ Banco de Dados
+
 SQL, PostgreSQL.
 
-<h3>🎨 Front-end</h3>
+🎨 Front-end
+
 HTML5 CSS3 JavaScript React
 
 <h3>📬 Contato</h3>
