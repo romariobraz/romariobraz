@@ -22,7 +22,7 @@ Atuo há mais de 10 anos como Suporte Técnico em TI, acumulando experiência em
 SQL, PostgreSQL.
 
 🎨 Front-end</br>
-HTML5 CSS3 JavaScript React
+HTML5, CSS3, JavaScript, React
 
 <h3>📬 Contato</h3></br>
 
