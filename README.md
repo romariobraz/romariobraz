@@ -21,6 +21,8 @@ Atuo há mais de 10 anos como Suporte Técnico em TI, acumulando experiência em
 📚 Em constante desenvolvimento, busco sempre aprender mais, abraço novidades e desafios.</br>
 🌱 Por aqui estamos em constante desenvolvimento — atualmente estudando C# e Typescript.</br>
 🐾 Apaixonado por tecnologia, livros e natureza.</br>
+<br clear="both">
+
 ###
 
 <br clear="both">
