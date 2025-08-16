@@ -1,6 +1,6 @@
-<h1 align ="center">✨ Romário Braz ✨</h1>
+<h1 align ="center">✨ Romário Braz da Rocha✨</h1>
 
-<h2>Suporte de TI Pleno | Estudante de Engenharia de Software</h2>
+<h2>Suporte de TI Pleno | Estudante de Engenharia de Software</h2></br>
 
 <h3>💻 Resumo</h3>
 
