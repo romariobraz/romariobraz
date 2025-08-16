@@ -1,6 +1,6 @@
 <h1>✨ Romário Braz ✨</h1>
 
-<h2>Suporte de TI Pleno – Custom Software Engineering | Estudante de Engenharia de Software</h2>
+<h2>Suporte de TI Pleno | Estudante de Engenharia de Software</h2>
 
 💻 Resumo
 Atuo há mais de 10 anos como Suporte Técnico em TI, acumulando experiência em diversos segmentos. Já prestei suporte a clientes finais, empresas privadas e órgãos governamentais, além de redes de pequeno, médio e grande porte. Tenho vivência com sistemas ERP voltados ao comércio e à gestão empresarial, incluindo implantação, tratamento de dados e suporte ao usuário, manutenção de hardware e software. Também possuo experiência em iGaming, gestão de TI, metodologias ágeis (Scrum), segurança da informação, servidores e infraestrutura.
