@@ -1,6 +1,14 @@
-<img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR4uy8YeTRa_awrDibCB6JRGbytWYdU-Tz21tHB2N3lF4hglFTopZV4wfWA3SMSTEteK0&usqp=CAU"/>
-<h1 align ="center">✨ Romário Braz da Rocha✨</h1>
-<h2 align ="center">Suporte de TI Pleno | Estudante de Engenharia de Software</h2></br>
+<table align="center">
+  <tr>
+    <td>
+      <h1 align="center">✨ Romário Braz da Rocha ✨</h1>
+      <h3 align="center">Suporte de TI Pleno | Estudante de Engenharia de Software</h3>
+    </td>
+    <td>
+      <img height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR4uy8YeTRa_awrDibCB6JRGbytWYdU-Tz21tHB2N3lF4hglFTopZV4wfWA3SMSTEteK0&usqp=CAU"/>
+    </td>
+  </tr>
+</table>
 
 <h3>💻 Resumo</h3>
 
