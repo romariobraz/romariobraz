@@ -61,7 +61,7 @@ React Native
 
 <h3>📬 Contato</h3></br>
 
-<h3>✨ Disponibilidade</h3></br>
+<h3>✨ Disponibilidade</h3>
 📌 Aberto a estágios e oportunidades na area desenvolvimento.</br>
 💡 Amo transformar problemas e dificuldades em soluções.</br>
 🚀 Sempre pronto para aprender e crescer profissionalmente.</br>
