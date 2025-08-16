@@ -1,5 +1,5 @@
+<img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR4uy8YeTRa_awrDibCB6JRGbytWYdU-Tz21tHB2N3lF4hglFTopZV4wfWA3SMSTEteK0&usqp=CAU"/>
 <h1 align ="center">✨ Romário Braz da Rocha✨</h1>
-
 <h2 align ="center">Suporte de TI Pleno | Estudante de Engenharia de Software</h2></br>
 
 <h3>💻 Resumo</h3>
@@ -15,11 +15,24 @@ Atuo há mais de 10 anos como Suporte Técnico em TI, acumulando experiência em
 🐾 Apaixonado por tecnologia, livros e natureza.</br>
 
 <h3>🎨 Tecnologias</h3>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=romariobraz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romariobraz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
 </div>
 
 ☕ .Net, JavaScript, Typescript.
@@ -28,7 +41,15 @@ Atuo há mais de 10 anos como Suporte Técnico em TI, acumulando experiência em
 SQL, PostgreSQL.
 
 🎨 Front-end</br>
-HTML5, CSS3, JavaScript, React
+HTML5, CSS3, JavaScript, React.
+🚀 Mobile
+React Native
+
+<h3>📊 Estatísticas do GitHub</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=romariobraz&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romariobraz&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="top langs" />
+</div>
 
 <h3>📬 Contato</h3></br>
 
