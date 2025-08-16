@@ -9,9 +9,13 @@ Atuo há mais de 10 anos como Suporte Técnico em TI, acumulando experiência em
 <h3>✨ Sobre mim</h3>
 
 💼 Sólida experiência com suporte ao consumidor, seja com sistemas, jogos (mercado Igaming), ERP, Sales Force.
+
 🛠️ Domínio de Git/GitHub, modelagem de bancos de dados e versionamento de código.
+
 📚 Em constante desenvolvimento, busco sempre aprender mais, abraço novidades e desafios.
+
 🌱 Por aqui estamos em constante desenvolvimento — atualmente estudando C# e Typescript.
+
 🐾 Apaixonado por tecnologia, livros e natureza.
 
 <h3>🎨 Tecnologias</h3>
