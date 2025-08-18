@@ -66,12 +66,6 @@ Atuo há mais de 10 anos como Suporte Técnico em TI, acumulando experiência em
 🚀 Mobile</br>
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-<h3>📊 Estatísticas do GitHub</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=romariobraz&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romariobraz&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="top langs" />
-</div>
-
 <h3>📬 Contato</h3></br>
 <div align="left">
   <a href="https://www.instagram.com/romarioinfo" target="_blank">
